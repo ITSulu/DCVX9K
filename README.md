@@ -1,7 +1,7 @@
-# Exxon CCXOM-VXLAN 2024-AUG-20 to 22 St. John's, Canada
+# Exxon CCXOM-VXLAN 2024-SEP-10 to 12 St. John's, Canada
 ## [Exxon CCXOM-VXLAN Introduction - Nicholas Riegel](https://docs.google.com/presentation/d/1xiMMk75gjqdKL5stQ03NATbsLPnrlDDEXNx-4_sKJaE/edit?usp=sharing)
 
-## [Exxon CCXOM-VXLAN Course Information 2024-AUG-20 to 22 St. John's, Canada](https://docs.google.com/spreadsheets/d/1ganrXWukVrU0K4zpbhtUPWhoB3BJZk6ZyDEPyZ2t8ms/edit?usp=sharing)
+## [Exxon CCXOM-VXLAN Course Information 2024-SEP-10 to 12 St. John's, Canada](https://docs.google.com/spreadsheets/d/1UB42A3xLkS9w264jdnfbnO9Fmno7XHTDdb2RsYf7dCU/edit?usp=sharing)
 
 ## [CCXOM-VXLAN Lab Link](https://dcloud-lon-anyconnect.cisco.com)
 
